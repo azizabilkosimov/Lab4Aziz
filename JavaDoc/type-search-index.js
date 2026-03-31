@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.lab4aziz","l":"Pizza"},{"p":"com.lab4aziz","l":"RabbitReceiver"},{"p":"com.lab4aziz","l":"RabbitSender"},{"p":"com.lab4aziz","l":"WebServiceClient"},{"p":"com.lab4aziz","l":"WebServiceServer"}];updateSearchResults();
